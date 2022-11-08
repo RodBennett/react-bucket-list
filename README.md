@@ -16,4 +16,3 @@ This is only a front-end app, no backend APIs or databases are included.
 
 - Email Rod: rod.bennett75@gmail.com
 - [Rod's Github Profile](https://github.com/RodBennett)
-# react-bucket-list
